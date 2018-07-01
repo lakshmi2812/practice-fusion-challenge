@@ -1,0 +1,48 @@
+[{
+  "id":1,
+  "name": "Harry Potter",
+  "location": "Los Angeles",
+  "rating": "5",
+  "specialty": "Cardiologist",
+  "img": "https://hdfreewallpaper.net/wp-content/uploads/2016/02/hd-harry-potter-free-wallpapers-free-download.jpg"
+  },
+  {
+    "id":2,
+    "name": "Ron Weasley",
+    "location": "Santa Clara",
+    "rating": "3",
+    "specialty": "Pediatrician",
+    "img": "https://pbs.twimg.com/profile_images/3302306697/6f045d7c3082519e06f82fea0a90d2e5.jpeg"
+    },
+  {
+    "id":3,
+    "name": "Hermione Granger",
+    "location": "San Francisco",
+    "rating": "4",
+    "specialty": "Neurologist",
+    "img":"http://images.all-free-download.com/images/wallpapers_large/cute_little_emma_watson_hermione_3391.jpg"
+    },
+  {
+    "id":4,
+    "name": "Dumbledore",
+    "location": "San Francisco",
+    "rating": "5",
+    "specialty": "Cardiologist",
+    "img":"https://cdn140.picsart.com/250961564013202.png?r1024x1024"
+    },
+  {
+    "id":5,
+    "name": "Snape",
+    "location": "Santa Clara",
+    "rating": "3",
+    "specialty": "Neurologist",
+    "img":"http://1.bp.blogspot.com/-HP5mAwVatx8/UhRqG31cHAI/AAAAAAAAQkw/4z14qoN2vuo/s1600/Severus+Snape+Wallpaper+012.png"
+    },
+  {
+    "id":6,
+    "name": "Dobby",
+    "location": "Los Angeles",
+    "rating": "4",
+    "specialty": "Pediatrician",
+    "img":"https://i.pinimg.com/564x/55/7d/73/557d73d586b11e64e249529228e6c287.jpg"
+    }]
